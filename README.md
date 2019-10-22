@@ -60,7 +60,7 @@ df = df.append({
 #Plot Spiders
 smartspider.plot_dataframe(df, legend=df['name'], title='Two Politicians')
 ```
-See Jupyter Notebook Example in [plot smartspider.ipynb](./demo/plot smartspider.ipynb).
+See Jupyter Notebook Example in [plot smartspider.ipynb](./demo/plot_smartspider.ipynb).
 ## Result
 ![Smart Spider](./demo/example.png)
 
