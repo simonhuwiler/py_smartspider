@@ -1,6 +1,7 @@
 # Plot Smart Spiders in Python
 ## Description
-This handy script prints Smart Spiders (Radar Charts) with data from www.smartvote.ch
+This handy script prints Smart Spiders (Radar Charts) with data from www.smartvote.ch like this:
+![Smart Spider](./demo/example.png)
 
 ## Installation
 Copy the script `src/smartspider.py` to your code folder
